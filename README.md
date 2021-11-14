@@ -1,5 +1,8 @@
-# Getting Started with Create React App
+# Cryptocurrency Dashboard App using React and Redux-toolkit
 
+##This project was made using react,redux-toolkit, ant-design and API's from rapidApi.
+
+[Demo](https://jrn-crypto-dashboard.netlify.app)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
